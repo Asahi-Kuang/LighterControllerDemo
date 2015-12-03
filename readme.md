@@ -6,6 +6,8 @@
 
 #####**ps.本demo分别使用了系统的cell和自定义xib的cell来实现。**
 
+[原教程 轻量的控制器](http://objccn.io/issue-1-1/)
+
 分离出来的dataSource实现在“TableDataSource”文件
 
 截图：
